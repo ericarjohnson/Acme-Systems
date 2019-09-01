@@ -18,7 +18,6 @@ public class HelloWorld {
 	public static void whatFor(String a) {
 		
 		String yellAt = a;
-		
 		System.out.println(yellAt);
 		
 	}

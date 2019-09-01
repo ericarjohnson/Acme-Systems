@@ -21,4 +21,8 @@ public class HelloWorld {
 		System.out.println(yellAt);
 		
 	}
+	
+	public static void methodForSS() {
+		
+	}
 }
